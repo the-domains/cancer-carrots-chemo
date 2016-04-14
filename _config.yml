@@ -1,0 +1,28 @@
+name: cancer carrots chemo
+favicon: null
+layout_spectrum: 0.7080057717394084
+typography_spectrum: 0.2652559031266719
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5356360201258212
+  lightness: 0.46876071905717254
+  saturation: 0.7098600049503148
+  rhythmicContrast: 0.7988582784309983
+purpose: []
