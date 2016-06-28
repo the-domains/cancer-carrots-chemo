@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cancer carrots chemo]]></title>
+        <description><![CDATA[cancer carrots chemo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 22:41:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You’ve got cancer.]]></title>
+            <description><![CDATA[<article><h1>You’ve got cancer.</h1><p>I heard that phrase a few days before the July 4th weekend in 2015 and again the day before my birthday in August when I was told I also had a different cancer. Both times I felt like I had been punched in the gut and it made me angry. “I don’t have time for this.”</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0e6bed2-7bc1-4cdc-99b9-f0c1de3990ef.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1aa081a-512f-4ebb-a209-ed359854b7f9.jpg</link>
+            <guid isPermaLink="false">35e89019-277d-40ea-8345-b580eed43f7c</guid>
+            <pubDate>Tue, 28 Jun 2016 22:41:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
